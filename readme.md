@@ -60,8 +60,8 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackerorwottt&show_icons=true&locale=en&layout=compact" alt="hackerorwottt" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackerorwottt&show_icons=true&locale=en&layout=compact" alt="abhishekvarma07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackerorwottt&show_icons=true&locale=en" alt="hackerorwottt" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekvarma07&show_icons=true&locale=en" alt="abhishekvarma07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackerorwottt&" alt="hackerorwottt" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekvarma07&" alt="abhishekvarma07" /></p>
